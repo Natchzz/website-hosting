@@ -1,0 +1,41 @@
+
+html{
+    background-image: url(images/me.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#h1{
+    text-align: center;
+}
+
+.con2{
+    color: blue;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+}
+.con3{
+    color: red;
+    position: relative;
+    text-align: center;
+}
+#h3{
+    text-align: center;
+}
+#p1{
+    text-align: center;
+    color: blue;
+}
+img{
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+#p2{
+    text-align: center;
+    color: blue;
+}
+#p3{
+    text-align: center;
+    color: blue;
+}
